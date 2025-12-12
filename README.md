@@ -30,10 +30,10 @@ The first time you run the application, it will generate a config.properties fil
 
 Open config.properties in a text editor to customize your Discord Rich Presence settings, for example:
 ```bash
-clientId=YOUR_DISCORD_APP_ID
-state=Your custom state
-details=Your custom details
-startTimestamp=auto
+applicationId=1111111111111
+details=CustomDetails
+nameOfImageKey=cat1
+state=CustomState
 ```
 Save the file and restart the application to apply changes.
 
